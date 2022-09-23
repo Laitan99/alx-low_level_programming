@@ -1,5 +1,5 @@
 
-#include "holberton.h"
+#include "stdio.h"
 
 /**
  * infinite_add - adds two numbers.
@@ -44,4 +44,4 @@ int i, j, k, l, m, n;
 		r[l] = m;
 	}
 	return (r);
-}	
+}
